@@ -2,6 +2,18 @@
 
 This file was generated using [@jscutlery/semver](https://github.com/jscutlery/semver).
 
+# [1.0.0](https://github.com/IgorKvasn/nx-changelog-pokus/compare/lib1-0.1.2...lib1-1.0.0) (2022-01-01)
+
+
+* feat!: braking ([4f0f5ec](https://github.com/IgorKvasn/nx-changelog-pokus/commit/4f0f5ecc0ae16bfcfb2abe5c06364d86d2403f11))
+
+
+### BREAKING CHANGES
+
+* aaa
+
+
+
 ## [0.1.2](https://github.com/IgorKvasn/nx-changelog-pokus/compare/lib1-0.1.1...lib1-0.1.2) (2022-01-01)
 
 
