@@ -1,0 +1,6 @@
+{
+  "executor": "@jscutlery/semver:version",
+  "options": {
+    "changelogHeader": "hello"
+  }
+}
