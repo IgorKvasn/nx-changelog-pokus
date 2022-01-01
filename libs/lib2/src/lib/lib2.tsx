@@ -6,7 +6,7 @@ export interface Lib2Props {}
 export function Lib2(props: Lib2Props) {
   return (
     <div>
-      <h1>Welcome to Lib2!aaa</h1>
+      <h1>Welcome to Lib2!aaaddd</h1>
     </div>
   );
 }
