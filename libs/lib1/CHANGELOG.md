@@ -2,6 +2,15 @@
 
 This file was generated using [@jscutlery/semver](https://github.com/jscutlery/semver).
 
+# [1.5.0](https://github.com/IgorKvasn/nx-changelog-pokus/compare/lib1-1.4.0...lib1-1.5.0) (2022-01-01)
+
+
+### Features
+
+* lib1 changed11a3 ([2af1f1f](https://github.com/IgorKvasn/nx-changelog-pokus/commit/2af1f1f2e4cebc94d3c3eda58dbf70542525dff5))
+
+
+
 # [1.4.0](https://github.com/IgorKvasn/nx-changelog-pokus/compare/lib1-1.3.0...lib1-1.4.0) (2022-01-01)
 
 
