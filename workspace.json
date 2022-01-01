@@ -5,5 +5,10 @@
     "demo-e2e": "apps/demo-e2e",
     "lib1": "libs/lib1",
     "lib2": "libs/lib2"
+  },
+  "executor": "@jscutlery/semver:version",
+  "options": {
+    "changelogHeader": "hello"
   }
+
 }
