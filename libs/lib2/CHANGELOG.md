@@ -1,6 +1,12 @@
-# Changelog
+aaaaa <h1>adad</h1>
+# [0.4.0](https://github.com/IgorKvasn/nx-changelog-pokus/compare/lib2-0.3.0...lib2-0.4.0) (2022-01-01)
 
-This file was generated using [@jscutlery/semver](https://github.com/jscutlery/semver).
+
+### Features
+
+* lib2 header change ([0309206](https://github.com/IgorKvasn/nx-changelog-pokus/commit/03092063246580f3efa34641f2268cc25754dc45))
+
+
 
 # [0.3.0](https://github.com/IgorKvasn/nx-changelog-pokus/compare/lib2-0.2.0...lib2-0.3.0) (2022-01-01)
 
